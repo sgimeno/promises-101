@@ -1,0 +1,13 @@
+{
+  "name": "promises-101",
+  "version": "1.0.0",
+  "description": "Promises 101 ============",
+  "main": "index.js",
+  "scripts": {
+    "test": "node p1.js && node p2.js",
+    "spec": "node solutions/callback.js && node solutions/promise.js",
+    "wtf": "node solutions"
+  },
+  "author": "gimeno.sergio@gmail.com",
+  "license": "MIT"
+}
